@@ -1,5 +1,4 @@
-# Tournament Results
-Udacity Project 3
+Tournament Results (Udacity Project 3)
 =============
 
 ## Getting Started
